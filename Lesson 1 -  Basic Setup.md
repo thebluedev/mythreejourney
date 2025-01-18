@@ -1,4 +1,4 @@
-## Every Three Scene needs to have
+## Every three Scene needs to have
 
 ### 1. A Scene
 `const scene = new THREE.Scene();`
